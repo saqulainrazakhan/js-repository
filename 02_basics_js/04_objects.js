@@ -30,7 +30,7 @@ const obj = Object.assign({}, obj1, obj2, obj3) // it copies the nested object a
 
 // Alternate of Object.assign() and most preferable way to do it
 const obj4 = {...obj1, ...obj2, ...obj3}// spreading the objects
-// console.log(obj4);
+console.log(obj4);
 
 
 const users = [
