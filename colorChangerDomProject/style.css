@@ -1,30 +1,30 @@
 #green {
     display:inline-block;
     background-color: #008000;
-    width: 100px;
-    height: 100px;
-    border: 2px solid green;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000000;
 
 }
-#magenta {
+#blue {
     display:inline-block;
-    background-color: #ff00ff;
-    width: 100px;
-    height: 100px;
-    border: 2px solid green;
+    background-color: #2600ff;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000000;
 
 }
 #grey {
     display:inline-block;
     background-color: #808080;
-    width: 100px;
-    height: 100px;
-    border: 2px solid green;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000000;
 }
 #teal {
     display:inline-block;
     background-color: #008080;
-    width: 100px;
-    height: 100px;
-    border: 2px solid green;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000000;
 }

@@ -12,7 +12,7 @@ buttons.forEach((button) => {
             body.style.backgroundColor = e.target.id;
         }
 
-        if(e.target.id === 'magenta') {
+        if(e.target.id === 'blue') {
            
             body.style.backgroundColor = e.target.id;
         }
